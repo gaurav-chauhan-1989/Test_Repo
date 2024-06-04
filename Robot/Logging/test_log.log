@@ -1,0 +1,10 @@
+2024-05-24 15:40:51,324 - Logging.test_logs - INFO - This is test log
+2024-05-24 15:41:32,110 - test_sum_with_monkeypatch - INFO - This is test log
+2024-05-24 18:00:06,970 - test_sum_with_monkeypatch - INFO - This is test log
+2024-05-24 18:36:25,454 - test_sum_with_monkeypatch - INFO - This is test log
+2024-05-24 18:58:47,069 - test_sum_with_monkeypatch - INFO - This is test log
+2024-05-30 13:58:50,542 - <module> - INFO - Line added successfully
+2024-05-30 13:58:50,542 - <module> - INFO - Line added successfully
+2024-05-30 13:58:50,542 - <module> - INFO - Line added successfully
+2024-05-30 13:58:50,542 - <module> - INFO - Line added successfully
+2024-05-30 13:58:50,542 - <module> - INFO - Line added successfully
